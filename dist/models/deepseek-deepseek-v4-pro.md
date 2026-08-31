@@ -1,22 +1,22 @@
 # DeepSeek: DeepSeek V4 Pro API Pricing & Analysis | LLMCosts.dev
 
-> Source: [LLMCosts.dev](https://llmcosts.dev) — Updated 2026-05-24
+> Source: [LLMCosts.dev](https://llmcosts.dev) — Updated 2026-08-31
 > Route cheapest: [OpenRouter](https://openrouter.ai/?ref=llmcosts)
 
 ## Overview
-DeepSeek: DeepSeek V4 Pro is an AI model provided by Deepseek. We are currently updating our AI analysis for this model.
+DeepSeek: DeepSeek V4 Pro is an AI language model providing text generation capabilities.
 
 ## Pricing (USD per 1M tokens)
 | Metric | Price |
 |--------|-------|
-| Input | $1.74 |
-| Output | $3.48 |
+| Input | $0.435 |
+| Output | $0.87 |
 | Cached Input | $None |
 | Batch Input | $None |
 | Batch Output | $None |
 
 ## Pricing Analysis
-See the pricing table for exact input, output, and batch token metrics.
+See pricing table above for detailed costs.
 
 ## Benchmarks
 | Benchmark | Score |
@@ -27,19 +27,17 @@ See the pricing table for exact input, output, and batch token metrics.
 | ARC | N/A |
 
 ## Benchmark Analysis
-See the benchmark table to view MMLU, HumanEval, and LMSYS ELO scores.
+See benchmark table for scores.
 
 ## Competitor Comparison
-Review the top competitor list shown in the pricing table.
+See comparison table below.
 
 ## Best Use Cases
-General purpose text generation, conversational AI, and API integrations.
+See use cases list below.
 
 ## Frequently Asked Questions
-**Q: Who made DeepSeek: DeepSeek V4 Pro?**
-A: It is provided by Deepseek.
 
 
 ---
-*Data verified: 2026-04-24 | Confidence: medium*
+*Data verified: 2026-06-21 | Confidence: medium*
 *[Get API Access via OpenRouter](https://openrouter.ai/?ref=llmcosts)*
